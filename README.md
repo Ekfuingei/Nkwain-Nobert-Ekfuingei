@@ -9,7 +9,7 @@
 | Project | Description | Stack | Link |
 |---|---|---|---|
 | 🏦 **WekaTrust** | Mobile escrow platform for peer-to-peer commerce in Africa | React Native · Node.js · AWS · Stripe | [wekatrust.com](https://wekatrust.com) |
-| 🏠 **Casa** | Property listing & rental app for Cameroon | Flutter · Node.js · PostgreSQL · Maps | [Play Store](https://play.google.com/apps/testing/com.casa.mobile) |
+| 🏠 **Casa** | Property listing & rental app for Cameroon | Flutter · Node.js · PostgreSQL · Maps | [https://www.casahomelisting.com/) |
 | 🛡️ **SafeVoice** | Anonymous GBV & human rights reporting — 50+ languages, AI-powered NGO matching | Next.js · AI · Vercel | [Live](https://safe-voice-weld.vercel.app/) |
 | ✈️ **EasyTravel** | End-to-end bus booking with interactive seat selection | React.js · Node.js · PostgreSQL | [Live](https://www.echoes-universal.com/) |
 | 🌾 **FarmIQ** | AI agricultural advisory for farmers in Cameroon | Next.js · AI · Vercel | [Live](https://farm-iq-iota.vercel.app/) |
