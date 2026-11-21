@@ -2,7 +2,7 @@
 
 **Sales Leads.** I close complex sales into rooms that do not move easily — contractors, banks, universities, technology companies, and marketplaces.
 
-**Share this with recruiters:** [ekfuingei.github.io/Nkwain-Nobert-Ekfuingei](https://ekfuingei.github.io/Nkwain-Nobert-Ekfuingei/)
+**Live site:** [https://web-production-52c3e193.up.railway.app](https://web-production-52c3e193.up.railway.app/)
 
 ---
 
