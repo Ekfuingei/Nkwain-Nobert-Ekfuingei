@@ -1,6 +1,6 @@
 # Nkwain Nobert Ekfuingei
 
-**Sales Lead.** I close complex sales into rooms that do not move easily — contractors, banks, universities, technology companies, and marketplaces.
+**Sales Leads.** I close complex sales into rooms that do not move easily — contractors, banks, universities, technology companies, and marketplaces.
 
 **[Open the portfolio →](https://ekfuingei.github.io/Nkwain-Nobert-Ekfuingei/)**
 
@@ -8,7 +8,7 @@
 
 ## Now
 
-Sales Lead at **Casa**, a PropTech marketplace live on the App Store and Google Play. Cameroon, expanding into Nigeria.
+Sales Leads at **Casa**, a PropTech marketplace live on the App Store and Google Play. Cameroon, expanding into Nigeria.
 
 Seeking an **international sales role at an AI startup**.
 
@@ -17,8 +17,8 @@ Seeking an **international sales role at an AI startup**.
 | Motion | Result |
 | --- | --- |
 | Masters Group · Cloud / AWS | 8 banks, 2 universities, 2 technology companies moved off on-prem onto AWS |
-| Fokou · Building materials · Buea | Sales lead. Contractor supply contracts and local builders, Jan 2018 – Feb 2020 |
-| Casa · PropTech | Sales lead from Nov 2024. Landlord and tenant GTM, Cameroon → Nigeria |
+| Fokou · Building materials · Buea | Sales leads. Contractor supply contracts and local builders, Jan 2018 – Feb 2020 |
+| Casa · PropTech | Sales leads from Nov 2024. Landlord and tenant GTM, Cameroon → Nigeria |
 
 In 2021 I trained in DevOps and cloud so I could sell infrastructure without hiding behind an engineer.
 
