@@ -1,67 +1,35 @@
-# Hi, I'm Nobert 👋
+# Nkwain Nobert Ekfuingei
 
-**Full-Stack Engineer & Fintech Founder** — building financial infrastructure for underserved markets across Africa.
+**Sales Lead.** I close complex sales into rooms that do not move easily — contractors, banks, universities, technology companies, and marketplaces.
 
----
-
-## 🚀 What I'm Building
-
-| Project | Description | Stack | Link |
-|---|---|---|---|
-| 🏦 **WekaTrust** | Mobile escrow platform for peer-to-peer commerce in Africa | React Native · Node.js · AWS · Stripe | [wekatrust.com](https://wekatrust.com) |
-| 🏠 **Casa** | Property listing & rental app for Cameroon | Flutter · Node.js · PostgreSQL · Maps | [https://www.casahomelisting.com/) |
-| 🛡️ **SafeVoice** | Anonymous GBV & human rights reporting — 50+ languages, AI-powered NGO matching | Next.js · AI · Vercel | [Live](https://safe-voice-weld.vercel.app/) |
-| ✈️ **EasyTravel** | End-to-end bus booking with interactive seat selection | React.js · Node.js · PostgreSQL | [Live](https://www.echoes-universal.com/) |
-| 🌾 **FarmIQ** | AI agricultural advisory for farmers in Cameroon | Next.js · AI · Vercel | [Live](https://farm-iq-iota.vercel.app/) |
-| 🎓 **EduLens** | AI-powered education discovery platform | Next.js · AI · Vercel | [Live](https://edu-lens-puce.vercel.app/) |
+**[Open the portfolio →](https://ekfuingei.github.io/Nkwain-Nobert-Ekfuingei/)**
 
 ---
 
-## 🛠️ Tech Stack
+## Now
 
-**Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+Sales Lead at **Casa**, a PropTech marketplace live on the App Store and Google Play. Cameroon, expanding into Nigeria.
 
-**Backend & Database**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+Seeking an **international sales role at an AI startup**.
 
-**Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=flat&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+## Proof
 
----
+| Motion | Result |
+| --- | --- |
+| Masters Group · Cloud / AWS | 8 banks, 2 universities, 2 technology companies moved off on-prem onto AWS |
+| Fokou · Building materials · Buea | Sales lead. Contractor supply contracts and local builders, Jan 2018 – Feb 2020 |
+| Casa · PropTech | Sales lead from Nov 2024. Landlord and tenant GTM, Cameroon → Nigeria |
 
-## 🏅 Certifications
+In 2021 I trained in DevOps and cloud so I could sell infrastructure without hiding behind an engineer.
 
-- **AWS Certified DevOps Engineer**
-- **AWS Certified Solutions Architect**
+## Education
 
----
+- **MBA**, Business Administration — University of Buea
+- **BSc**, Business Administration — University of Buea
 
-## 📊 GitHub Stats
+## Contact
 
-![Nobert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ekfuingei&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ekfuingei&layout=compact&hide_border=true)
-
----
-
-## 📫 Let's Connect
-
-- 🌍 Website: [wekatrust.com](https://wekatrust.com)
-- 📧 Email: ekfuingeinkwain@gmail.com
-- 📍 Yaoundé, Cameroon — Open to remote worldwide
-
----
-
-*Building products that move money, people, and ideas across Africa and beyond.*
+- Email: [ekfuingeinkwain@gmail.com](mailto:ekfuingeinkwain@gmail.com)
+- Phone: [+237 655 536 083](tel:+237655536083)
+- Location: Buea, Cameroon · open to relocate
+- Languages: English · French
