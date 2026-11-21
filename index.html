@@ -1,0 +1,562 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Nkwain Nobert Ekfuingei — Sales Leads</title>
+  <meta name="description" content="Enterprise and marketplace sales. Closed AWS migrations for banks, universities, and technology companies. Now seeking an international sales role at an AI startup." />
+  <meta name="author" content="Nkwain Nobert Ekfuingei" />
+  <meta name="theme-color" content="#0c0f0e" />
+  <link rel="canonical" href="https://ekfuingei.github.io/Nkwain-Nobert-Ekfuingei/" />
+  <link rel="icon" href="./assets/favicon.svg" type="image/svg+xml" />
+  <meta property="og:title" content="Nkwain Nobert Ekfuingei — Sales Leads" />
+  <meta property="og:description" content="I sell complex products into institutions that do not move easily — banks, universities, contractors, and marketplaces." />
+  <meta property="og:type" content="website" />
+  <meta name="twitter:card" content="summary" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Outfit:wght@300;400;500;600&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --ink: #0c0f0e;
+      --ink-2: #161b19;
+      --paper: #efe8d8;
+      --paper-dim: #cfc6b4;
+      --gold: #d4a574;
+      --gold-2: #e8c9a0;
+      --sage: #8aa394;
+      --line: rgba(239, 232, 216, 0.12);
+      --max: 1180px;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+    body {
+      font-family: Outfit, system-ui, sans-serif;
+      background: var(--ink);
+      color: var(--paper);
+      line-height: 1.55;
+      font-weight: 400;
+      -webkit-font-smoothing: antialiased;
+    }
+    body::before {
+      content: "";
+      position: fixed;
+      inset: 0;
+      pointer-events: none;
+      z-index: 8;
+      opacity: 0.045;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='180' height='180'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='180' height='180' filter='url(%23n)'/%3E%3C/svg%3E");
+    }
+
+    a { color: inherit; }
+    img { max-width: 100%; display: block; }
+    .wrap { width: min(var(--max), calc(100% - 48px)); margin: 0 auto; }
+
+    .serif { font-family: "Instrument Serif", Georgia, serif; }
+    .gold { color: var(--gold); }
+    .mute { color: var(--paper-dim); }
+    .kicker {
+      font-size: 11px;
+      letter-spacing: 0.22em;
+      text-transform: uppercase;
+      color: var(--gold);
+      font-weight: 500;
+    }
+
+    nav {
+      position: sticky;
+      top: 0;
+      z-index: 20;
+      backdrop-filter: blur(16px);
+      background: rgba(12, 15, 14, 0.78);
+      border-bottom: 1px solid var(--line);
+    }
+    nav .bar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      min-height: 68px;
+      gap: 20px;
+    }
+    .mark {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      text-decoration: none;
+    }
+    .mark .mono {
+      width: 34px;
+      height: 34px;
+      border: 1px solid var(--gold);
+      display: grid;
+      place-items: center;
+      font-family: "Instrument Serif", serif;
+      color: var(--gold);
+      font-size: 14px;
+    }
+    .mark span { font-size: 13px; letter-spacing: 0.08em; text-transform: uppercase; }
+    .links { display: flex; gap: 28px; align-items: center; }
+    .links a {
+      text-decoration: none;
+      font-size: 13px;
+      color: var(--paper-dim);
+      letter-spacing: 0.04em;
+    }
+    .links a:hover { color: var(--paper); }
+    .cta {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      text-decoration: none;
+      border: 1px solid var(--gold);
+      color: var(--gold) !important;
+      padding: 9px 16px;
+      font-size: 12px;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+    }
+    .cta:hover { background: var(--gold); color: var(--ink) !important; }
+
+    .hero {
+      padding: 88px 0 72px;
+      border-bottom: 1px solid var(--line);
+    }
+    .hero-top {
+      display: flex;
+      justify-content: space-between;
+      gap: 24px;
+      margin-bottom: 48px;
+    }
+    h1 {
+      font-family: "Instrument Serif", Georgia, serif;
+      font-size: clamp(52px, 9vw, 112px);
+      line-height: 0.92;
+      font-weight: 400;
+      letter-spacing: -0.03em;
+    }
+    h1 em { font-style: italic; color: var(--gold-2); }
+    .lede {
+      max-width: 640px;
+      font-size: 20px;
+      color: var(--paper-dim);
+      margin-top: 28px;
+      font-weight: 300;
+    }
+    .meta-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px 28px;
+      margin-top: 36px;
+      font-size: 13px;
+      color: var(--paper-dim);
+    }
+    .meta-row b { color: var(--paper); font-weight: 500; }
+
+    .proof {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      border-bottom: 1px solid var(--line);
+    }
+    .proof article {
+      padding: 36px 28px;
+      border-right: 1px solid var(--line);
+    }
+    .proof article:last-child { border-right: 0; }
+    .proof .num {
+      font-family: "Instrument Serif", serif;
+      font-size: 52px;
+      line-height: 1;
+      color: var(--gold);
+    }
+    .proof p { margin-top: 10px; font-size: 13px; color: var(--paper-dim); }
+
+    section { padding: 96px 0; border-bottom: 1px solid var(--line); }
+    h2 {
+      font-family: "Instrument Serif", serif;
+      font-size: clamp(36px, 5vw, 56px);
+      font-weight: 400;
+      letter-spacing: -0.02em;
+      line-height: 1.05;
+    }
+    .head {
+      display: grid;
+      grid-template-columns: 180px 1fr;
+      gap: 24px;
+      margin-bottom: 48px;
+      align-items: end;
+    }
+
+    .split {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 64px;
+    }
+    .split p { font-size: 17px; color: var(--paper-dim); font-weight: 300; }
+    .split p + p { margin-top: 18px; }
+
+    .work { display: flex; flex-direction: column; }
+    .case {
+      display: grid;
+      grid-template-columns: 180px 1fr;
+      gap: 24px 48px;
+      padding: 56px 0;
+      border-top: 1px solid var(--line);
+    }
+    .case:first-of-type { border-top: 0; padding-top: 0; }
+    .when { color: var(--gold); font-size: 13px; letter-spacing: 0.12em; text-transform: uppercase; }
+    .case h3 {
+      font-family: "Instrument Serif", serif;
+      font-size: clamp(28px, 4vw, 40px);
+      font-weight: 400;
+      margin-bottom: 8px;
+    }
+    .role { color: var(--sage); font-size: 14px; margin-bottom: 22px; }
+    .case p { color: var(--paper-dim); font-size: 16.5px; font-weight: 300; max-width: 68ch; }
+    .chips { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 22px; }
+    .chip {
+      border: 1px solid var(--line);
+      padding: 7px 12px;
+      font-size: 12px;
+      color: var(--paper-dim);
+      letter-spacing: 0.04em;
+    }
+
+    .steps {
+      display: grid;
+      grid-template-columns: repeat(5, 1fr);
+      gap: 1px;
+      background: var(--line);
+      border: 1px solid var(--line);
+    }
+    .steps article {
+      background: var(--ink);
+      padding: 28px 22px 32px;
+      min-height: 220px;
+    }
+    .steps b {
+      display: block;
+      font-family: "Instrument Serif", serif;
+      font-size: 28px;
+      color: var(--gold);
+      margin-bottom: 16px;
+      font-weight: 400;
+    }
+    .steps h3 { font-size: 16px; font-weight: 500; margin-bottom: 10px; }
+    .steps p { font-size: 13.5px; color: var(--paper-dim); font-weight: 300; }
+
+    .edu {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 18px;
+    }
+    .card {
+      border: 1px solid var(--line);
+      padding: 32px;
+      background: var(--ink-2);
+    }
+    .card h3 {
+      font-family: "Instrument Serif", serif;
+      font-size: 28px;
+      font-weight: 400;
+      margin: 10px 0 8px;
+    }
+
+    .next p { max-width: 720px; font-size: 22px; font-weight: 300; color: var(--paper-dim); margin-top: 18px; }
+
+    footer {
+      padding: 100px 0 48px;
+    }
+    footer h2 { font-size: clamp(40px, 7vw, 84px); }
+    .contact-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 28px;
+      margin-top: 48px;
+    }
+    .contact-grid a, .contact-grid p {
+      text-decoration: none;
+      font-size: 16px;
+    }
+    .contact-grid span {
+      display: block;
+      font-size: 11px;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: var(--gold);
+      margin-bottom: 8px;
+    }
+    .foot {
+      display: flex;
+      justify-content: space-between;
+      gap: 16px;
+      margin-top: 72px;
+      padding-top: 24px;
+      border-top: 1px solid var(--line);
+      color: var(--paper-dim);
+      font-size: 12px;
+    }
+
+    @media (max-width: 900px) {
+      .wrap { width: min(var(--max), calc(100% - 32px)); }
+      .links { display: none; }
+      .proof, .split, .edu, .contact-grid, .steps, .head, .case {
+        grid-template-columns: 1fr;
+      }
+      .proof article { border-right: 0; border-bottom: 1px solid var(--line); }
+      .hero { padding-top: 56px; }
+      section { padding: 64px 0; }
+      .steps article { min-height: 0; }
+    }
+
+    @media print {
+      nav, body::before { display: none !important; }
+      body { background: white; color: #111; }
+      .gold, .kicker, .when, .proof .num, .steps b, .mark .mono { color: #8a5a2b !important; }
+      .mute, .lede, .case p, .split p, .next p { color: #333 !important; }
+      a { color: #111 !important; }
+      section, .hero, .proof, footer { border-color: #ddd !important; }
+      .cta { border-color: #8a5a2b; }
+    }
+  </style>
+</head>
+<body>
+  <nav>
+    <div class="wrap bar">
+      <a class="mark" href="#top">
+        <div class="mono">NE</div>
+        <span>Nkwain Nobert</span>
+      </a>
+      <div class="links">
+        <a href="#work">Work</a>
+        <a href="#approach">Approach</a>
+        <a href="#education">Education</a>
+        <a href="#contact">Contact</a>
+      </div>
+      <a class="cta" href="mailto:ekfuingeinkwain@gmail.com">Email me</a>
+    </div>
+  </nav>
+
+  <header class="hero" id="top">
+    <div class="wrap">
+      <div class="hero-top">
+        <p class="kicker">Sales dossier · 2018 — 2026</p>
+        <p class="kicker">Buea, Cameroon · Open internationally</p>
+      </div>
+      <h1>I close complex<br />sales. <em>Then I stay.</em></h1>
+      <p class="lede">Enterprise and marketplace sales for products that require trust. I have sold building materials to contractors, AWS infrastructure to banks and universities, and housing inventory on a live PropTech platform. Next: an AI startup that needs a hunter who can walk into a difficult room and leave with a contract.</p>
+      <div class="meta-row">
+        <span><b>Now</b> Sales Leads, Casa</span>
+        <span><b>Seeking</b> International sales · AI startups</span>
+        <span><b>Languages</b> English · French</span>
+      </div>
+    </div>
+  </header>
+
+  <div class="proof">
+    <article>
+      <div class="num">8</div>
+      <p>Commercial banks moved onto AWS with Masters Group</p>
+    </article>
+    <article>
+      <div class="num">2</div>
+      <p>Universities that left on-prem for cloud infrastructure</p>
+    </article>
+    <article>
+      <div class="num">2</div>
+      <p>Technology companies that adopted AWS with me as sales leads</p>
+    </article>
+    <article>
+      <div class="num">12</div>
+      <p>Institutional cloud wins in one sales motion — banks, campus, tech</p>
+    </article>
+  </div>
+
+  <section id="about">
+    <div class="wrap">
+      <div class="head">
+        <p class="kicker">About</p>
+        <h2>Relationship selling with technical range.</h2>
+      </div>
+      <div class="split">
+        <div>
+          <p>I started on building sites in Buea, winning supply contracts from contractors and local builders who buy on reputation. That taught me the only lesson that still matters in my work: nobody signs until they believe you will still be there after the invoice.</p>
+          <p>In 2021 I trained in DevOps and cloud so I could sell infrastructure without hiding behind an engineer. At Masters Group I used that fluency to take banks, universities, and technology companies off on-prem stacks and onto AWS.</p>
+        </div>
+        <div>
+          <p>When the firm split, I took the same motion into PropTech. At Casa I sell a live marketplace — iOS, Android, Cameroon, now Nigeria. I am looking for a harder arena: an AI company that sells a product people do not yet fully understand, into buyers who do not move lightly.</p>
+          <p>MBA and BSc in Business Administration, University of Buea. I work in English and French. I will relocate.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="work">
+    <div class="wrap">
+      <div class="head">
+        <p class="kicker">Selected work</p>
+        <h2>Three rooms. One discipline.</h2>
+      </div>
+
+      <article class="case">
+        <p class="when">Nov 2024 — Present</p>
+        <div>
+          <h3>Casa</h3>
+          <p class="role">Sales Leads · PropTech marketplace · Cameroon, expanding to Nigeria</p>
+          <p>Casa is a housing marketplace on the App Store and Google Play. I joined as sales leads to fill both sides of the market: landlords who will list real inventory, and tenants who will trust the platform enough to enquire. The work is field sales, partnership, and expansion — first Cameroon, then Nigeria — for a product that has to feel safer than Facebook groups and street brokers.</p>
+          <div class="chips">
+            <span class="chip">Marketplace GTM</span>
+            <span class="chip">Landlord acquisition</span>
+            <span class="chip">Cross-border expansion</span>
+            <span class="chip">App Store · Google Play</span>
+          </div>
+        </div>
+      </article>
+
+      <article class="case">
+        <p class="when">Mar 2021 — 2024</p>
+        <div>
+          <h3>Masters Group</h3>
+          <p class="role">Sales Leads · Cloud computing · Institutional AWS migrations</p>
+          <p>Masters Group sold cloud against on-prem habit. I was sales leads. The buyers were conservative: commercial banks, universities, and technology companies that already had rooms full of servers and people who did not want to move. I learned the stack so the technical objection died in the first meeting, then I ran the commercial process until they signed. Result: eight banks, two universities, and two technology companies adopted AWS infrastructure.</p>
+          <div class="chips">
+            <span class="chip">8 banks</span>
+            <span class="chip">2 universities</span>
+            <span class="chip">2 tech companies</span>
+            <span class="chip">On-prem → AWS</span>
+          </div>
+        </div>
+      </article>
+
+      <article class="case">
+        <p class="when">Jan 2018 — Feb 2020</p>
+        <div>
+          <h3>Fokou</h3>
+          <p class="role">Sales Leads · Building-materials distribution · Buea, Cameroon</p>
+          <p>Fokou supplies construction. I was sales leads. The job was to get in front of contractors who already had a preferred supplier, and in front of local builders who buy in cash and expect you to know the site. I ran the relationship, quoted the job, and closed supply contracts. It is still the cleanest sales education I have: if the cement is late, you do not get the next house.</p>
+          <div class="chips">
+            <span class="chip">Contractor contracts</span>
+            <span class="chip">Local builders</span>
+            <span class="chip">Field sales</span>
+            <span class="chip">Buea</span>
+          </div>
+        </div>
+      </article>
+    </div>
+  </section>
+
+  <section id="approach">
+    <div class="wrap">
+      <div class="head">
+        <p class="kicker">How I sell</p>
+        <h2>Useful in an AI company because the product is never the first objection.</h2>
+      </div>
+      <div class="steps">
+        <article>
+          <b>01</b>
+          <h3>Enter the room</h3>
+          <p>Contractors, bank IT, campus procurement, landlords. I start where the buyer already lives, not with a deck.</p>
+        </article>
+        <article>
+          <b>02</b>
+          <h3>Map power</h3>
+          <p>Find who can say yes, who can stall, and who will be blamed if the migration or the listing fails.</p>
+        </article>
+        <article>
+          <b>03</b>
+          <h3>Make it concrete</h3>
+          <p>Cloud, housing, or AI — I translate the product into a risk they already feel and a proof they can inspect.</p>
+        </article>
+        <article>
+          <b>04</b>
+          <h3>Close</h3>
+          <p>A date, a contract, a first workload or a first listing. No theatre. A signature.</p>
+        </article>
+        <article>
+          <b>05</b>
+          <h3>Expand</h3>
+          <p>The second campus, the next branch, the next city. I stay on the account after the first win.</p>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section id="education">
+    <div class="wrap">
+      <div class="head">
+        <p class="kicker">Education</p>
+        <h2>University of Buea.</h2>
+      </div>
+      <div class="edu">
+        <article class="card">
+          <p class="kicker">Graduate</p>
+          <h3>MBA, Business Administration</h3>
+          <p class="mute">University of Buea · Cameroon</p>
+        </article>
+        <article class="card">
+          <p class="kicker">Undergraduate</p>
+          <h3>BSc, Business Administration</h3>
+          <p class="mute">University of Buea · Cameroon</p>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section class="next" id="now">
+    <div class="wrap">
+      <div class="head">
+        <p class="kicker">What I want next</p>
+        <h2>A sales seat at an AI startup that will actually stretch me.</h2>
+      </div>
+      <p>I am not looking for a local comfort role. I want an international brief: a product that is still being explained to the market, buyers who need to be taught, and a team that will judge me on pipeline and closed revenue. Cloud migration prepared me for that conversation. So did selling a marketplace in a market that still prefers a phone call. If you are hiring sales for AI, I want the hard territory.</p>
+    </div>
+  </section>
+
+  <footer id="contact">
+    <div class="wrap">
+      <p class="kicker">Contact</p>
+      <h2 class="serif">Write. Call.<br />Put me in the room.</h2>
+      <div class="contact-grid">
+        <a href="mailto:ekfuingeinkwain@gmail.com">
+          <span>Email</span>
+          ekfuingeinkwain@gmail.com
+        </a>
+        <a href="tel:+237655536083">
+          <span>Phone</span>
+          +237 655 536 083
+        </a>
+        <p>
+          <span>Location</span>
+          Buea, Cameroon<br />Open to relocate
+        </p>
+      </div>
+      <div class="foot">
+        <span>Nkwain Nobert Ekfuingei</span>
+        <span>Sales Leads · Cloud · PropTech · AI</span>
+        <span>© 2026</span>
+      </div>
+    </div>
+  </footer>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Nkwain Nobert Ekfuingei",
+    "jobTitle": "Sales Leads",
+    "email": "mailto:ekfuingeinkwain@gmail.com",
+    "telephone": "+237655536083",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Buea",
+      "addressCountry": "CM"
+    },
+    "alumniOf": [
+      { "@type": "CollegeOrUniversity", "name": "University of Buea" }
+    ],
+    "knowsLanguage": ["en", "fr"],
+    "url": "https://ekfuingei.github.io/Nkwain-Nobert-Ekfuingei/"
+  }
+  </script>
+</body>
+</html>
