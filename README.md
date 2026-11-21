@@ -2,7 +2,7 @@
 
 **Sales Leads.** I close complex sales into rooms that do not move easily — contractors, banks, universities, technology companies, and marketplaces.
 
-**[Open the portfolio →](https://ekfuingei.github.io/Nkwain-Nobert-Ekfuingei/)**
+This README is the public dossier. The designed site is [`index.html`](./index.html) — download that file and open it in Chrome. GitHub Pages (`*.github.io`) is blocked on some networks, including Fortinet SSL inspection.
 
 ---
 
